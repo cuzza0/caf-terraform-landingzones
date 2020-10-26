@@ -1,6 +1,6 @@
 module "caf-enterprise-scale" {
   source  = "Azure/caf-enterprise-scale/azurerm"
-  version = "0.0.5-preview"
+  version = "0.0.6-preview"
 
   root_parent_id            = "e9e7e695-ae50-4a53-8f15-1f30bd9a2886"
 
